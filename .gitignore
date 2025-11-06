@@ -7,10 +7,15 @@ __pycache__/
 *.npy
 
 # DO NOT ignore plots/CSVs (we want them tracked for grading)
-# *.png
-# *.csv
+*.png
+*.csv
 
 # Local env & OS junk
 .venv/
 .DS_Store
 Thumbs.db
+
+# Ignore generated datasets & plots
+data/*.csv
+data/*.npy
+data/plots/*
