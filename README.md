@@ -2,7 +2,7 @@
 
 Single-axis (1-D) **IMU Kalman filter** baseline for EECE 5698.
 
-**Model:** \(A=1,\; B=\Delta t,\; C=1\)  
+**Model:** (A=1; B=Delta t; C=1)  
 
 This repo produces **golden CSVs & plots** to verify the HLS kernel later on Alveo U280 (OCT).
 
