@@ -1,4 +1,4 @@
-# FPGA-Accelerated 1D Kalman Filter (Project Update 2)
+# FPGA-Accelerated 1D Kalman Filter
 
 Single-axis (1-D) **IMU Kalman filter** baseline for EECE 5698.
 
